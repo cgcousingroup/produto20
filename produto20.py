@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = '7672360069:AAFrSEEMHYRofNnyWR3jYiCbqPwyJR-LY04'
+TOKEN = '7822502947:AAGaaozYjf801cYC2M-Ott-FoY3tb4AzEWg'
 SUPORTE_USERNAME = '@supvipoficial'
 LINK_PAGAMENTO = 'https://pay.sunize.com.br/lpmtARES'  # Substitua pelo seu link real
 
