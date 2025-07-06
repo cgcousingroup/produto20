@@ -10,7 +10,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "7851307080:AAHLJur-YNlQZihzwMKVPajRDbfwBweVnNY"
+TOKEN = "7856220343:AAHd8RITAA9tKnASgY-JfSbWh2ldbHwbAZg"
 USUARIO_SUPORTE = -1002873961394
 
 GRUPOS_MONITORADOS = {
