@@ -188,7 +188,7 @@ async def cupom_escolha(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await asyncio.sleep(10)
         await context.bot.send_message(
             chat_id=user_id,
-            text=f"🧾 <b>Fez o pagamento?</b>\nReceba seu acesso enviando o comprovante aqui: @supvipoficial",
+            text=f"🧾 <b>Fez o pagamento?</b>\nReceba seu acesso enviando o comprovante aqui: @cgsuporte",
             parse_mode="HTML"
         )
     else:
