@@ -26,92 +26,99 @@ GRUPOS_MONITORADOS = {
 
 produtos = [
     (
+        "🔞 VIP Proibidão (DESCONTO) 🔞",
+        "~~R$19,90~~ por R$9,90",
+        "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
+        "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
+        "https://www.eutesalvo.com/arquivos/upload/eutesalvo-2885119e48e33dd3348cf5949b7a57e0.jpg"
+    ),
+    (
         "🔥 VIP Vazados 🔥",
-        "R$ 19,90",
+        "R$19,90",
         "https://app.pushinpay.com.br/service/pay/9F4853DC-0842-4F83-BCF8-761261D47053",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://vizinhotv.com.br/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-20-at-19.24.39-768x537.jpeg"
     ),
     (
         "😈 VIP GPs de Luxo 😈",
-        "R$ 19,90",
+        "R$19,90",
         "https://app.pushinpay.com.br/service/pay/9F4853DC-0842-4F83-BCF8-761261D47053",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://www.fotoscaiunanet.com/wp-content/uploads/2018/02/Fotos-de-garotas-de-programas-peladas-e-gostosas-4.jpeg"
     ),
     (
         "🙈 VIP Casais & Cornos 🙈",
-        "R$ 14,90",
+        "R$14,90",
         "https://app.pushinpay.com.br/service/pay/9f4fd7f0-b299-42a3-a6d6-97ccabe6a7e5",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://www.pornolandia.xxx/media/videos/tmb/54329/1.jpg"
     ),
     (
         "🥵 VIP Amadoras 🥵",
-        "R$ 9,90",
+        "R$9,90",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://cnnamador.com/contents/videos_sources/284000/284009/posters/1.jpg"
     ),
     (
         "🔞 VIP Novinhas 🔞",
-        "R$ 29,90",
+        "R$29,90",
         "https://app.pushinpay.com.br/service/pay/9F4851AC-8054-4E0E-BE14-19455A348FE1",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://www.mixputaria.com/videos/wp-content/uploads/2023/06/caiu-na-net-Novinha-tocando-siririca.jpg"
     ),
     (
         "🏳‍🌈 VIP Trans 🏳‍🌈",
-        "R$ 29,90",
+        "R$29,90",
         "https://app.pushinpay.com.br/service/pay/9F4851AC-8054-4E0E-BE14-19455A348FE1",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://cnnamador.com/contents/videos_screenshots/286000/286764/preview.jpg"
     ),
     (
         "🎶 VIP Funk 🎶",
-        "R$ 14,90",
+        "R$14,90",
         "https://app.pushinpay.com.br/service/pay/9f4fd7f0-b299-42a3-a6d6-97ccabe6a7e5",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://ei-ph.rdtcdn.com/videos/202307/03/434762611/original/(m=eag28f)(mh=TWlegIZs6qI2KhC6)0.jpg"
     ),
     (
         "🤳🏻 VIP Lives 🤳🏻",
-        "R$ 19,90",
+        "R$19,90",
         "https://app.pushinpay.com.br/service/pay/9F4853DC-0842-4F83-BCF8-761261D47053",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://tubepussy.org/contents/videos_screenshots/2000/2833/preview.jpg"
     ),
     (
         "😈 VIP Omegle 😈",
-        "R$ 19,90",
+        "R$19,90",
         "https://app.pushinpay.com.br/service/pay/9F4853DC-0842-4F83-BCF8-761261D47053",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://t99.nudevista.com/258/102554258.b.jpg"
     ),
     (
         "👫 VIP Incesto 👫",
-        "R$ 9,90",
+        "R$9,90",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://novinhaspelada.com/wp-content/uploads/2023/11/Vovo-fodendo-a-bucetinha-da-netinha-310x190.jpg"
     ),
     (
         "🔵 VIP Privacy + Onlyfans 🔵",
-        "R$ 29,90",
+        "R$29,90",
         "https://app.pushinpay.com.br/service/pay/9F4851AC-8054-4E0E-BE14-19455A348FE1",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://www.mixputaria.com/videos/wp-content/uploads/2024/01/Catarina-Paolino-vazado-do-Onlyfans-2024.jpg"
     ),
     (
         "⚜️ VIP Famosinhas ⚜️",
-        "R$ 19,90",
+        "R$19,90",
         "https://app.pushinpay.com.br/service/pay/9F4853DC-0842-4F83-BCF8-761261D47053",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://www.boabronha.com/wp-content/uploads/2022/11/mc-mirella-pelada_4.jpg"
     ),
     (
         "📸 VIP Cãmeras 📸",
-        "R$ 14,90",
+        "R$14,90",
         "https://app.pushinpay.com.br/service/pay/9f4fd7f0-b299-42a3-a6d6-97ccabe6a7e5",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://thumb-nss.xhcdn.com/a/pVrZibtMbmGHEUlmSX9iZQ/010/032/217/v2/2560x1440.206.webp"
