@@ -27,7 +27,7 @@ GRUPOS_MONITORADOS = {
 produtos = [
     (
         "🔞 VIP Proibidão (DESCONTO) 🔞",
-        "~~R$19,90~~ por R$9,90",
+        "~R$19,90~ por R$9,90",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://app.pushinpay.com.br/service/pay/9F484D59-0B3F-4BA0-A819-4C6B8396684C",
         "https://www.eutesalvo.com/arquivos/upload/eutesalvo-2885119e48e33dd3348cf5949b7a57e0.jpg"
@@ -135,7 +135,8 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         for i, (nome, preco, *_rest) in enumerate(produtos)
     ]
     # Alteração feita aqui: emojis inseridos diretamente para evitar erro de encoding
-    await update.message.reply_text("🛍️ Escolha um VIP 👇", reply_markup=InlineKeyboardMarkup(keyboard))
+    await update.message.reply_text("🛍️ Escolha um VIP 👇", reply_markup=InlineKeyboardMarkup(keyboard), parse_mode="MarkdownV2")
+
 
 async def produto_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
